@@ -1,0 +1,8 @@
+source "https://rubygems.org"
+
+ruby '2.3.1'
+
+gem 'rspec'
+gem 'httparty'#not really used it
+gem 'pry'
+# add a readme file

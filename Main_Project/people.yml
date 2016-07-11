@@ -1,0 +1,36 @@
+people:
+  - f_name: Shorof
+    s_name: Shiblu
+    dob: 2 Feb 1993
+    email: shorof.uddin22@gmail.com
+    telephone: 07946662131
+
+  - f_name: Barry
+    s_name: Hawkins
+    dob: 1 July 1980
+    email:
+      - barry@gmail.com
+      - barry@outlook.com
+    telephone:
+      - 02077902582
+      - 02075783839
+
+  - f_name: Qasim
+    s_name: Hassan
+    dob: 2 April 1994
+    email:
+      - qasim_daone@live.com
+      - qasim@gmail.com
+      - qasimwashere@hotmail.com
+    telephone:
+      - 07947484848
+      - 07839393930
+      - 07845959393
+
+  - f_name: Haridas
+    s_name: Nyquiel
+    dob: 10 Jan 2008
+    email: h@live.com
+    telephone:
+      - 08928328489
+      - 02723838383
